@@ -1,6 +1,4 @@
-[![Build Status]()]()
-
-# GitLab deployment on Kubernetes Cluster
+## GitLab deployment on Kubernetes Cluster
 
 *Read this in other languages: [한국어](README.ko.md)、[中国](README-cn.md) .*
 
