@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/IBM/Kubernetes-container-service-GitLab-sample.svg?branch=master)](https://travis-ci.org/IBM/Kubernetes-container-service-GitLab-sample)
+[![Build Status]()]()
 
 # GitLab deployment on Kubernetes Cluster
 
